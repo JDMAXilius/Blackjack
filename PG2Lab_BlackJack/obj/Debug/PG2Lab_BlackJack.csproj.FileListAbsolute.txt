@@ -1,0 +1,20 @@
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.exe.config
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.exe
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\bin\Debug\ClassLibrary1.dll
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\bin\Debug\ClassLibrary1.pdb
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csprojAssemblyReference.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csproj.CopyComplete
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.exe
+C:\Users\jdmax\Documents\Full Sail University- Game Developer\Programing 2\PG2Lab_BlackJack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.pdb
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.exe.config
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.exe
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\bin\Debug\PG2Lab_BlackJack.pdb
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\bin\Debug\ClassLibrary1.dll
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\bin\Debug\ClassLibrary1.pdb
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csproj.AssemblyReference.cache
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.csproj.CopyComplete
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.exe
+C:\Users\jdmax\Desktop\Blackjack\PG2Lab_BlackJack\obj\Debug\PG2Lab_BlackJack.pdb
